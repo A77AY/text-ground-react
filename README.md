@@ -9,7 +9,7 @@ npm i text-ground-react
 ![Example](https://raw.githubusercontent.com/KrickRay/text-ground-react/master/media/sample.png)
 
 ```
-import TextGround from 'text-ground-react'
+import {TextGround} from 'text-ground-react'
 ...
 
 state = {
