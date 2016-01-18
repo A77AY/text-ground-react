@@ -6,7 +6,7 @@ The template text to show for user while text is loading from server.
 npm i text-ground-react
 ```
 
-![Example](https://raw.githubusercontent.com/KrickRay/text-ground-react/master/media/example.png)
+![Example](https://raw.githubusercontent.com/KrickRay/text-ground-react/master/media/sample.png)
 
 ```
 import TextGround from 'text-ground-react'
