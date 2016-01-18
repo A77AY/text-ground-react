@@ -1,2 +1,7 @@
-# <TextGround /> React
-Template text to show the user while the text loaded from the server.
+# TextGround component for React
+The template text to show for user while text is loading from server.
+
+## Usage
+```
+npm i text-ground
+```
