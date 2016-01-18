@@ -38,7 +38,7 @@ textLoadedHandle(loadedText) {
 - rows - the number of rows
 - lineMaxWidth - percentage (0.0 .. 1.0)
 - lineMinWidth - percentage (0.0 .. 1.0)
-- lineHeight - the source from, percentage (0.0 .. 1.0)
+- lineHeight - part of the original, percentage (0.0 .. 1.0)
 - color - CSS color
 - seed - if you are using pre render on the server and need the same rendering on the client and on the server
 
