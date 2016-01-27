@@ -1,6 +1,6 @@
 {
   "name": "text-ground-react",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Rinat Arsaev @krickray",
   "description": "the template text to show for user while text is loading from server",
   "keywords": [
@@ -17,11 +17,12 @@
   ],
   "scripts": {
     "start": "",
-    "build": "babel src --out-dir ."
+    "build": "babel src --out-dir .",
+    "pub": "npm run build && npm publish"
   },
   "license": "MIT",
   "dependencies": {
-    "react": "^0.14.6"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
