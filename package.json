@@ -1,6 +1,6 @@
 {
   "name": "text-ground-react",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "author": "Rinat Arsaev @krickray",
   "description": "the template text to show for user while text is loading from server",
   "keywords": [],
