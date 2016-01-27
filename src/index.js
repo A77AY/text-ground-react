@@ -1,4 +1,4 @@
-import TextGround from './TextGround'
+import TextGround from './lib/TextGround'
 export {TextGround}
 export default {
     TextGround
