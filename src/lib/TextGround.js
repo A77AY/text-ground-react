@@ -3,7 +3,7 @@ import Utils from './utils/Utils'
 
 export default class TextGround extends Component {
 
-    propTypes = {
+    static propTypes = {
         maxRow: PropTypes.number,
         minRows: PropTypes.number,
         rows: PropTypes.number,
