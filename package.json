@@ -1,6 +1,6 @@
 {
   "name": "text-ground-react",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "author": "Rinat Arsaev @krickray",
   "description": "The template text to show for user while text is loading from server",
   "keywords": [
@@ -23,14 +23,17 @@
   },
   "license": "MIT",
   "dependencies": {
-    "react": "^0.14.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "react": "^0.14.0"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0"
   },
   "homepage": "https://github.com/KrickRay/text-ground-react/tree/master",
   "bugs": {
